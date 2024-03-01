@@ -1104,6 +1104,30 @@ $_Application_Module_Member_Message_Contact_Administrator_MESSAGE_SENT_ERROR				
  ============================================================================================================
  +
  +
+ + [ @ ] Contacts
+ +
+ +
+ ============================================================================================================
+*/
+
+/*
+ ============================================================================================================
+ + Header
+ ============================================================================================================
+*/
+
+$_Application_Module_Member_Message_Contacts_Header									= "<CENTER>[ <B><A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Application_List&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Open & Display The Application Module :: Application List ::\">Root</A> => <A HREF=\"?$_INTERNAL_APPLICATION_MODULE_MEMBER&#61;Contact_Administrator&amp;$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Root => :: Open & Display The Application Module :: Contacts\">Contacts</A> => <A HREF=\"./Applications/Member/Contacts?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_HTR_RANDOM_STRING_GENERATION\" TITLE=\":: Open & Display The Source Code For The Application Module :: Contacts ::\">Source</A></B> ]</CENTER><HR><BR>";
+
+/*
+ ============================================================================================================
+ + Messages
+ ============================================================================================================
+*/
+
+/*
+ ============================================================================================================
+ +
+ +
  + [ @ ] Control_Panel
  +
  +
